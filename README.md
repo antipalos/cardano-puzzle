@@ -12,4 +12,8 @@ When puzzler is solved and wallet is emptied - the detailed solution will be pos
 
 ### Active
 
-### Archive
+1. [Cardano Puzzler #1](./0001)
+
+### Solved
+
+...
