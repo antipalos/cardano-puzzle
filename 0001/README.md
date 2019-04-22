@@ -1,12 +1,14 @@
+[(Back to main page)](./..)
+
 # Cardano Puzzler #1
 
-Posted on twitter on April 18th 2019: https://twitter.com/vsubhuman/status/1118793860384210944
+Posted on twitter on April 18th 2019: [https://twitter.com/vsubhuman/status/1118793860384210944](https://twitter.com/vsubhuman/status/1118793860384210944)
 
 "There's 1000 #Cardano $ADA behind these numbers. Take it. Bounty will slowly grow with time, but remember that someone else might take it first at any moment."
 
 ![image](https://user-images.githubusercontent.com/5585355/56515020-8a59d980-653f-11e9-82eb-0ff2ae915c9c.png)
 
-Reward address: https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA
+Reward address: [https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA)
 
 ## Hints
 
