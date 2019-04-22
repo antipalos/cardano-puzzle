@@ -2,6 +2,8 @@
 
 Welcome to an archive of crypto-puzzlers, related somehow to [Cardano](https://cardanowiki.info) project, and rewarded with ADA cryptocurrency.
 
+![image](https://user-images.githubusercontent.com/5585355/56516210-854a5980-6542-11e9-8c96-81fa6e35f09e.png)
+
 ### Rules
 
 As with many other crypto-puzzlers - each puzzle hides a key that opens you full access to a wallet with the prize. Therefore you don't need anyone to check if your solution is correct or not - you either gain full access to the prize, or the solution is wrong.
