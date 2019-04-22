@@ -1,6 +1,6 @@
 ## Cardano Puzzle
 
-Welcome to an archive of crypto-puzzlers, related somehow to [Cardano](https://cardanowiki.info) project, and rewarded with ADA cryptocurrency.
+Welcome to an archive of crypto-puzzlers, potentially related somehow to [Cardano](https://cardanowiki.info) project, and rewarded with ADA cryptocurrency.
 
 ![image](https://user-images.githubusercontent.com/5585355/56516210-854a5980-6542-11e9-8c96-81fa6e35f09e.png)
 
