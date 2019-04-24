@@ -24,6 +24,8 @@ Reward address:
 
 > No specific technical or protocol knowledge is required to get from these numbers to the wallet with the prize
 
+> Including looking thru the BIP39 list of words
+
 ### 3
 
 ![image](https://user-images.githubusercontent.com/5585355/56515210-0b18d580-6540-11e9-99e4-30998d7f2418.png)
