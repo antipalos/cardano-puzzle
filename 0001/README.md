@@ -37,3 +37,7 @@ Reward address:
 ### 5
 
 > What historically happened to some alphabet letters you now can do to words. (This hint will not help you if you don't know yet what previous hint means)
+
+## Breadcrumbs
+
+> If you know how 24 is related to letters: TTOV - you are on the right track
