@@ -40,4 +40,10 @@ Reward address:
 
 ## Breadcrumbs
 
+### 1
+
 > If you know how 24 is related to letters: TTOV - you are on the right track
+
+### 2
+
+> If you are down to 3 symbols - you are on the right track
