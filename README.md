@@ -1,5 +1,7 @@
 ## Cardano Puzzle
 
+[![Join the chat at https://gitter.im/cardano-puzzle/community](https://badges.gitter.im/cardano-puzzle/community.svg)](https://gitter.im/cardano-puzzle/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to an archive of crypto-puzzlers, potentially related somehow to [Cardano](https://cardanowiki.info) project, and rewarded with ADA cryptocurrency.
 
 ![image](https://user-images.githubusercontent.com/5585355/56516210-854a5980-6542-11e9-8c96-81fa6e35f09e.png)
