@@ -38,6 +38,10 @@ Reward address:
 
 > What historically happened to some alphabet letters you now can do to words. (This hint will not help you if you don't know yet what previous hint means)
 
+### 6
+
+> D is for Different
+
 ## Breadcrumbs
 
 ### 1
