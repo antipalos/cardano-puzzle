@@ -40,7 +40,7 @@ Reward address:
 
 ### 6
 
-> D is for Different
+> D for Different
 
 ## Breadcrumbs
 
