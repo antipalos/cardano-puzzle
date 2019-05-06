@@ -17,3 +17,9 @@ Reward address:
 ## Proof screen
 
 ![image](https://user-images.githubusercontent.com/5585355/56578906-6944c780-65d7-11e9-8b2d-9f7a758a410e.png)
+
+## Hints
+
+### 1
+
+<img src="https://user-images.githubusercontent.com/5585355/57250796-f0bb1d80-7050-11e9-8f2a-34a9ab57fe66.png" width="400"/>
