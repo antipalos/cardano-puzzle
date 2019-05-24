@@ -20,9 +20,12 @@ When puzzler is solved and wallet is emptied - the detailed solution will be pos
 
 ### Active
 
-1. [Cardano Puzzler #1](./0001) ([check](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA))
-2. [0-based](./0002_0-based) ([check](https://clio.one/tracker/address/Ae2tdPwUPEYzv7cAExen1kxYKMwufDawn87Pkb6Xo8E4P2pd3G28vjubVqr))
+1. [0-based](./0002_0-based) ([check](https://clio.one/tracker/address/Ae2tdPwUPEYzv7cAExen1kxYKMwufDawn87Pkb6Xo8E4P2pd3G28vjubVqr))
 
 ### Solved
 
 ...
+
+### Closed
+
+1. [Cardano Puzzler #1](./0001) ([check](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA))
