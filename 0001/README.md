@@ -16,7 +16,7 @@ Reward address:
 
 ## Closing
 
-This was the firs Cardano Puzzler created in these series. It sparked a surprising lot of interest in the community, but unfortunately it is the time for me to admit that it's not a good puzzler at all, and much more than this, it seems to me at the moment that even if solved - it might not provide the feeling of an achievement, because I realize now it might overly-depend on blind guessing, which was not the initial intent.
+This was the first Cardano Puzzler created in these series. It sparked a surprising lot of interest in the community, but unfortunately it is the time for me to admit that it's not a good puzzler at all, and much more than this, it seems to me at the moment that even if solved - it might not provide the feeling of an achievement, because I realize now it might overly-depend on blind guessing, which was not the initial intent.
 
 Having created and published this puzzler allowed me to learn way more than I understood before, about what a good puzzler is. The main point and the main complication is, of curse, to make a puzzle not only complex and interesting just as a riddle, but also to make it just the right amount simple, so it can be solved without bling guessing and, which is more, without **requiring** an additional input from me. This first puzzler was a great teaching excercise for me, but unfortunately lacks the quality of being just enough solvable.
 
