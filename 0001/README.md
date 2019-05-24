@@ -14,7 +14,7 @@ Reward address:
 
 [https://adascan.net/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA/](https://adascan.net/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA/)
 
-## :warning: Closing
+## &#9888; Closing
 
 This was the firs Cardano Puzzler created in these series. It sparked a surprising lot of interest in the community, but unfortunately it is the time for me to admit that it's not a good puzzler at all, and much more than this, it seems to me at the moment that even if solved - it might not provide the feeling of an achievement, because I realize now it might overly-depend on blind guessing, which was not the initial intent.
 
