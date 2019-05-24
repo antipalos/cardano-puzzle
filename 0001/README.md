@@ -18,9 +18,9 @@ Reward address:
 
 This was the first Cardano Puzzler created in these series. It sparked a surprising lot of interest in the community, but unfortunately it is the time for me to admit that it's not a good puzzler at all, and much more than this, it seems to me at the moment that even if solved - it might not provide the feeling of an achievement, because I realize now it might overly-depend on blind guessing, which was not the initial intent.
 
-Having created and published this puzzler allowed me to learn way more than I understood before, about what a good puzzler is. The main point and the main complication is, of curse, to make a puzzle not only complex and interesting just as a riddle, but also to make it just the right amount simple, so it can be solved without bling guessing and, which is more, without **requiring** an additional input from me. This first puzzler was a great teaching excercise for me, but unfortunately lacks the quality of being just enough solvable.
+Having created and published this puzzler allowed me to learn way more than I understood before, about what a good puzzler is. The main point and the main complication is, of course, to make a puzzle not only complex and interesting just as a riddle, but also to make it just the right amount simple, so it can be solved without blind guessing and, which is more, without **requiring** an additional input from me. This first puzzler was a great teaching excercise for me, but unfortunately lacks the quality of being just enough solvable.
 
-In order to not suddenly abrupt people's attempt to maybe still solve it the closing workflow will be:
+In order to not suddenly steal people's attempt to maybe still solve it the closing workflow will be:
 1. The closing of the puzzle is announced on the website and on twitter
 2. Anyone still has a chance to solve it before the closing time
 3. On May 27th 2019 12 pm (noon) UTC - puzzler will be closed (if not solved before that)
