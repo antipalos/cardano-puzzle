@@ -1,3 +1,6 @@
+[(Back to puzzle)](./)<br/>
+[(Back to main page)](./..)
+
 # Cardano Puzzler #1 - Solution
 
 ![image](https://user-images.githubusercontent.com/5585355/56515020-8a59d980-653f-11e9-82eb-0ff2ae915c9c.png)
