@@ -29,4 +29,4 @@ When puzzler is solved and wallet is emptied - the detailed solution will be pos
 
 ### Closed
 
-1. [Cardano Puzzler #1](./0001) ([check](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA))
+1. [Cardano Puzzler #1](./0001) ([check](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA)) ([solution](./0001/SOLUTION.md))
