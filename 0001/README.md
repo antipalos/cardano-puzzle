@@ -1,8 +1,10 @@
 [(Back to main page)](./..)
 
-# Cardano Puzzler #1 (Closing)
+# Cardano Puzzler #1 (Closed)
 
 Posted on twitter on April 18th 2019: [https://twitter.com/vsubhuman/status/1118793860384210944](https://twitter.com/vsubhuman/status/1118793860384210944)
+
+### Solution is available here: [solution](./SOLUTION.md)
 
 "There's 1000 #Cardano $ADA behind these numbers. Take it. Bounty will slowly grow with time, but remember that someone else might take it first at any moment."
 
