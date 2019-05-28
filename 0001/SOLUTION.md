@@ -125,6 +125,6 @@ At the moment they are asked to provide an address to receive the prize. For now
 
 ### Update
 
-By agreement with `@underctrl` - he [received](https://seiza.com/blockchain/address/Ae2tdPwUPEYzTvuJjpJBiU35nBhHeetEiQ1WYZSG4Ght71TiHETiPWii7H1) only half of the initial reward, and the rest was divided to increase prizes for puzzles [#2](../0002_0-based) and [#3](../0003_Hand_in_hand)
+By agreement with `@underctrl` - they [received](https://seiza.com/blockchain/address/Ae2tdPwUPEYzTvuJjpJBiU35nBhHeetEiQ1WYZSG4Ght71TiHETiPWii7H1) only half of the initial reward, and the rest was divided to increase prizes for puzzles [#2](../0002_0-based) and [#3](../0003_Hand_in_hand)
 
 ![image](https://user-images.githubusercontent.com/5585355/58501825-eee70480-818d-11e9-8252-084f5d4ecb56.png)
