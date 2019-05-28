@@ -122,3 +122,9 @@ Gitter user `@underctrl` was the first one to propose valid solution for first t
 ![image](https://user-images.githubusercontent.com/5585355/58421130-e6ac9d80-8097-11e9-97bf-425ee732dec9.png)
 
 At the moment they are asked to provide an address to receive the prize. For now prize was transferred to a temporary wallet, just to close the puzzler. When prize will be transferred to the winner - I will update this page.
+
+### Update
+
+By agreement with `@underctrl` - he [received](https://seiza.com/blockchain/address/Ae2tdPwUPEYzTvuJjpJBiU35nBhHeetEiQ1WYZSG4Ght71TiHETiPWii7H1) only half of the initial reward, and the rest was divided to increase prizes for puzzles [#2](../0002_0-based) and [#3](../0003_Hand_in_hand)
+
+![image](https://user-images.githubusercontent.com/5585355/58501825-eee70480-818d-11e9-8252-084f5d4ecb56.png)
