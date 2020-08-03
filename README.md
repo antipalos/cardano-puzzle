@@ -20,8 +20,8 @@ When puzzler is solved and wallet is emptied - the detailed solution will be pos
 
 ### Active
 
-1. [0-based](./0002_0-based) ([check](https://clio.one/tracker/address/Ae2tdPwUPEYzv7cAExen1kxYKMwufDawn87Pkb6Xo8E4P2pd3G28vjubVqr))
-2. [Hand in Hand with Daedalus](./0003_Hand_in_hand) ([check](https://clio.one/tracker/address/DdzFFzCqrht5H8coX2SxNPMYj7b5LQYaWDtv1swvZDSMitM64HmYeTytmMBwfRkbbGyobxnyjZAFSAgGVDqbQgGQLcUhaYFAVLC5w3rF))
+1. [0-based](./0002_0-based) ([check](https://adascan.net/address/Ae2tdPwUPEYzv7cAExen1kxYKMwufDawn87Pkb6Xo8E4P2pd3G28vjubVqr/))
+2. [Hand in Hand with Daedalus](./0003_Hand_in_hand) ([check](https://adascan.net/address/DdzFFzCqrht5H8coX2SxNPMYj7b5LQYaWDtv1swvZDSMitM64HmYeTytmMBwfRkbbGyobxnyjZAFSAgGVDqbQgGQLcUhaYFAVLC5w3rF/))
 
 ### Solved
 
@@ -29,4 +29,4 @@ When puzzler is solved and wallet is emptied - the detailed solution will be pos
 
 ### Closed
 
-1. [Cardano Puzzler #1](./0001) ([check](https://clio.one/tracker/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA)) ([solution](./0001/SOLUTION.md))
+1. [Cardano Puzzler #1](./0001) ([check](https://adascan.net/address/Ae2tdPwUPEZGEAXH8tPVZU5fFxmFoYrqPwyvXpCCkPRgFF1LMoyYrFzC7uA/)) ([solution](./0001/SOLUTION.md))
